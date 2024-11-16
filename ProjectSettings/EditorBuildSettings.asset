@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Thuoctinhnhanvat.unity
+    guid: bafcac7915ffdbb4baae3659c7883077
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 5dad083700233a94f959c3ede28dd5eb
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 1e75fcc74724dd84493b900cc5b017e8
+  - enabled: 1
+    path: Assets/Scenes/TurtorialMap.unity
+    guid: ec1eacf00de1dd34cae337d8784eb303
+  - enabled: 1
+    path: Assets/Scenes/NormalMap.unity
+    guid: b7c715f9f18312f4f8783caae38cdc36
+  - enabled: 1
+    path: Assets/Scenes/Boss1.unity
+    guid: 1e20c0e62ac05e9408768136b3254b09
+  - enabled: 1
+    path: Assets/Scenes/Boss2.unity
+    guid: 7a21cfa83591d41468102a3f048676da
+  - enabled: 1
+    path: Assets/Scenes/Boss3.unity
+    guid: d67069f9d1aedde47b453b58ed16e682
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 8cab28284578ba24285632b842d8bf32
+  m_configObjects: {}
